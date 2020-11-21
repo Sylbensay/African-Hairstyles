@@ -8,7 +8,17 @@ a.navbar-logo{
     margin-right: 10px;
     
 }
+.display-4 {
+    font-size: 4rem;
+}
 
+h3 {
+    font-family: 'Modak', cursive;
+    font-size: 50;
+}
+p { 
+    font-family: 'Exo', sans-serif;
+}
 .nav-item {
     margin-left: 40px;
 }
@@ -90,4 +100,36 @@ img.carou-img {
 hr.yes {
     width: 85%;
     border-top: 2px dotted rgb(51, 10, 10);
+}
+
+.col-lg-6.fulani-img {
+    padding: 20;
+}
+
+.col-lg-6.fulani {
+    margin-left: 0px;
+    padding: 25px;
+}
+
+.col-lg-6.flyer-col.koroba {
+    padding-top: 20px;
+
+}
+
+.footer_{
+    background-color: rgb(231, 226, 226);
+    height: 100px;
+}
+
+.footer_top {
+    background-color:white;
+    height: 100px;
+}
+p.copyright {
+    display: block;
+    text-align: center;
+    margin: 0%;
+    padding-top: 20px;
+    font-family: sans-serif;
+    
 }
